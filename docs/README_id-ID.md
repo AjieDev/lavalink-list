@@ -62,7 +62,7 @@ Lavalink List
 - Node akan di tandai sebagai ofline jika tidak dapat terhubung selama 3 detik
 - Server atau node yang tidak aktif mungkin akan di hapus agar tidak menimbulkan kelambatan status 
 
-# Contributors
+# Kontributor
 
 <a href="https://github.com/AjieDev/lavalink-list/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=AjieDev/lavalink-list" />
