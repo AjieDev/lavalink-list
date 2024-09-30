@@ -50,6 +50,28 @@ Lavalink List
 - `password` - Sandi dari node kamu (sandi bawaan adalah youshallnotpass)
 - `secure` - apakah node kamu menggunakan SSL atau tidak (true atau false)
 - `version` - Versi dari node kamu (versi lavalink rest api) (v3 atau v4)
+<br />
+<br />
+# API
+
+### Badges
+
+Layanan Statistik juga mendukung generasi badge, berikut rinciannya:
+
+```
+https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
+```
+- `<unique-id>` - unique-id kamu
+- `<type>` - Tipe badge, tipe badge yang didukung adalah: `Players`, `Status`, `Load`
+
+Contoh: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
+
+Contoh: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status) <br />
+
+Contoh: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load)
 
 # Catatan
 
