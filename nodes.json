@@ -1,7 +1,7 @@
 [
     {
-        "unique-id": "ajiedev-lavalinkv3nonssl",
-        "identifier": "AjieDev - Lavalink [Non SSL | US]",
+        "unique-id": "ajiedev-lavalinkv3",
+        "identifier": "AjieDev - Lavalink v3",
         "host": "lava-v3.ajieblogs.eu.org",
         "port": 80,
         "password": "https://dsc.gg/ajidevserver",
@@ -9,8 +9,8 @@
         "restVersion": "v3"
     },
     {
-        "unique-id": "ajiedev-lavalinkv4ssl",
-        "identifier": "AjieDev - Lavalink [SSL | US]", 
+        "unique-id": "ajiedev-lavalinkv4",
+        "identifier": "AjieDev - Lavalink v4", 
         "host": "lava-v4.ajieblogs.eu.org",
         "port": 443, 
         "password": "https://dsc.gg/ajidevserver",
@@ -39,3 +39,4 @@
 
 
 ]
+
