@@ -1,21 +1,12 @@
-<div align="center">
-<a href="https://free.lavalink.rf.gd/list">
-  <img src="https://cdn-cf.ajieblogs.eu.org/img/1727676032086.png" alt="logo" width="80"/>
-</a>
-<h3 align="center">
-Lavalink List
-</h3>
+![lavalink-list](https://socialify.git.ci/AjieDev/lavalink-list/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fcdn-cf.ajieblogs.eu.org%2Fimg%2F1727676032086.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+
+<div align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AjieDev/lavalink-list?style=for-the-badge"> <a href="https://dsc.gg/ajidevserver"><img alt="Discord - AjieDev" src="https://img.shields.io/discord/993867537337024565?label=Discord&logo=discord&style=for-the-badge"></a></div>
+
 <p align="center">
-    Daftar Lavalink publik gratis 
-    <br />
-    <br />
     <a href="https://free.lavalink.rf.gd/list">Halaman Peramban</a>
     .
     <a href="https://github.com/AjieDev/lavalink-list/pulls">Buat Permintaan Pull</a>
   </p>
-</div>
-
-<div align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AjieDev/lavalink-list?style=for-the-badge"> <a href="https://dsc.gg/ajidevserver"><img alt="Discord - AjieDev" src="https://img.shields.io/discord/993867537337024565?label=Discord&logo=discord&style=for-the-badge"></a></div>
 
 [EN](README.md) | [ID](docs/README_id-ID.md)
 
