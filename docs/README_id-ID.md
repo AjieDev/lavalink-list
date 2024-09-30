@@ -59,7 +59,7 @@ Lavalink List
 2a06:98c0:3600::103
 ```
 
-- Node akan di tandai sebagai ofline jika tidak dapat terhubung selama 3 detik
+- Node akan di tandai sebagai offline jika tidak dapat terhubung selama 3 detik
 - Server atau node yang tidak aktif mungkin akan di hapus agar tidak menimbulkan kelambatan status 
 
 # Kontributor
