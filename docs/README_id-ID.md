@@ -50,8 +50,7 @@ Lavalink List
 - `password` - Sandi dari node kamu (sandi bawaan adalah youshallnotpass)
 - `secure` - apakah node kamu menggunakan SSL atau tidak (true atau false)
 - `version` - Versi dari node kamu (versi lavalink rest api) (v3 atau v4)
-<br />
-<br />
+
 # API
 
 ### Badges

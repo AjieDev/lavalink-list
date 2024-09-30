@@ -50,8 +50,7 @@ Lavalink List
 - `password` - The password of your node (if you have one)
 - `secure` - If your node is using SSL (true or false)
 - `version` - The version of your node (lavalink rest api version) (v3 or v4)
-<br />
-<br />
+
 # API
 
 ### Badges
