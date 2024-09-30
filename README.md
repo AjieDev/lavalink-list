@@ -23,7 +23,7 @@ Lavalink List
 
 
 
-# How to add new nodes?
+# Add new nodes
 1. Fork this repository
 2. Edit the nodes.json file and add your node like the example
 3. Create pull request
