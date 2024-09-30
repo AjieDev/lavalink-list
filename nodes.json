@@ -6,7 +6,7 @@
         "port": 80,
         "password": "https://dsc.gg/ajidevserver",
         "secure": false,
-        "restVersion": "v3"
+        "version": "v3"
     },
     {
         "unique-id": "ajiedev-lavalinkv4",
@@ -15,7 +15,7 @@
         "port": 443, 
         "password": "https://dsc.gg/ajidevserver",
         "secure": true,
-        "restVersion": "v4"
+        "version": "v4"
     },
     {
         "unique-id": "serenetia-v3",
@@ -24,7 +24,7 @@
         "port": 443, 
         "password": "BatuManaBisa",
         "secure": true,
-        "restVersion": "v3"
+        "version": "v3"
     },
     {
         "unique-id": "serenetia-v4",
@@ -33,7 +33,7 @@
         "port": 443, 
         "password": "BatuManaBisa",
         "secure": true,
-        "restVersion": "v4"
+        "version": "v4"
     }
 
 
