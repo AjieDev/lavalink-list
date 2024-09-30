@@ -62,6 +62,19 @@ Lavalink List
 - Node will marked as offline if timeout for 3 seconds
 - Inactive servers or nodes may get deleted to avoid status delay.
 
+
+# Badges
+
+Stats service also supports badges generation, here the breakdown:
+
+```
+https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
+```
+- `<unique-id>` - Your unique-id
+- `<type>` - Badge type, supported badge tyoe are: `Players`, `Status`, `Load`
+
+Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players`
+
 # Contributors
 
 <a href="https://github.com/AjieDev/lavalink-list/graphs/contributors">
