@@ -7,14 +7,6 @@
 Lavalink List</a>
 </h1>
 
-<div align="center">
-
-[![Stars][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![Pull][pulls-shield]][pulls-url]
-
-</div>
-
 [EN](README.md) | [ID](docs/README_id-ID.md) 
 # lavalink-list
 List of Free Public Lavalink
