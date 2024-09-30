@@ -12,5 +12,5 @@ List of Free Public Lavalink
 ```
 2a06:98c0:3600::103
 ```
-- Lavalink will mark as offline if timeout for 3 seconds
+- Node will marked as offline if timeout for 3 seconds
 - Inactive servers or nodes may get deleted to avoid status delay.
