@@ -1,23 +1,5 @@
 [
     {
-        "unique-id": "ajiedev-lavalinkv3",
-        "identifier": "AjieDev - Lavalink v3",
-        "host": "lava-v3.ajieblogs.eu.org",
-        "port": 80,
-        "password": "https://dsc.gg/ajidevserver",
-        "secure": false,
-        "version": "v3"
-    },
-    {
-        "unique-id": "ajiedev-lavalinkv4",
-        "identifier": "AjieDev - Lavalink v4", 
-        "host": "lava-v4.ajieblogs.eu.org",
-        "port": 443, 
-        "password": "https://dsc.gg/ajidevserver",
-        "secure": true,
-        "version": "v4"
-    },
-    {
         "unique-id": "serenetia-v3",
         "identifier": "Serenetia Lavalink v3", 
         "host": "lavalinkv3-id.serenetia.com",
