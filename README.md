@@ -50,6 +50,29 @@ Lavalink List
 - `password` - The password of your node (if you have one)
 - `secure` - If your node is using SSL (true or false)
 - `version` - The version of your node (lavalink rest api version) (v3 or v4)
+<br />
+<br />
+# API
+
+### Badges
+
+Stats service also supports badges generation, here the breakdown:
+
+```
+https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
+```
+- `<unique-id>` - Your unique-id
+- `<type>` - Badge type, supported badge type are: `Players`, `Status`, `Load`
+
+Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
+
+Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status) <br />
+
+Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load` <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load)
+
 
 # Note
 
@@ -61,19 +84,6 @@ Lavalink List
 
 - Node will marked as offline if timeout for 3 seconds
 - Inactive servers or nodes may get deleted to avoid status delay.
-
-
-# Badges
-
-Stats service also supports badges generation, here the breakdown:
-
-```
-https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
-```
-- `<unique-id>` - Your unique-id
-- `<type>` - Badge type, supported badge tyoe are: `Players`, `Status`, `Load`
-
-Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players`
 
 # Contributors
 
