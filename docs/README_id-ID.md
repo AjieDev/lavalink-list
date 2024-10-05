@@ -3,7 +3,7 @@
 <div align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AjieDev/lavalink-list?style=for-the-badge"> <a href="https://dsc.gg/ajidevserver"><img alt="Discord - AjieDev" src="https://img.shields.io/discord/993867537337024565?label=Discord&logo=discord&style=for-the-badge"></a></div>
 
 <p align="center">
-    <a href="https://free.lavalink.rf.gd/list">Halaman Peramban</a>
+    <a href="https://free.lavalink.rf.gd/list">Website</a>
     .
     <a href="https://github.com/AjieDev/lavalink-list/pulls">Buat Permintaan Pull</a>
   </p>
@@ -65,7 +65,7 @@ Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge
 
 # Catatan
 
-- Layanan statistik berkemungkinan untuk untuk mengirim spam ke endpoint statistik dan info kamu (berdasarkan dengan sebarapa banyak orang yang membuka halaman peramban), jika kamu memiliki firewall atau batasan limitasi, kamu bisa menambahkan IP berikut kedalam daftar putih kamu:
+- Layanan statistik berkemungkinan untuk untuk mengirim spam ke endpoint statistik dan info kamu (berdasarkan dengan sebarapa banyak orang yang membuka website dan pembuatan badge), jika kamu memiliki firewall atau batasan limitasi, kamu bisa menambahkan IP berikut kedalam daftar putih kamu:
 
 ```
 2a06:98c0:3600::103
