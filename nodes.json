@@ -155,7 +155,7 @@
     {
         "unique-id": "lavalink-v4-huntools-bot-xyz",
         "identifier": "lavalink-v4-huntools-bot-xyz", 
-        "host": "lavalink3.lightsout.in",
+        "host": "lavalink-v4.huntools-bot.xyz",
         "port": 443, 
         "password": "youshallnotpass",
         "secure": true,
