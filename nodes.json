@@ -52,6 +52,42 @@
         "password": "youshallnotpass",
         "secure": false,
         "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-legacy-jompo-cloud",
+        "identifier": "lavalink-legacy-jompo-cloud", 
+        "host": "lavalink-legacy.jompo.cloud",
+        "port": 2333, 
+        "password": "jompo",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "node-lewdhutao-my-eu-org",
+        "identifier": "node-lewdhutao-my-eu-org", 
+        "host": "node.lewdhutao.my.eu.org",
+        "port": 2333, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-jirayu-net",
+        "identifier": "lavalink-legacy-jompo-cloud", 
+        "host": "lavalink.jirayu.net",
+        "port": 13592, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "lavalink-jirayu-net v4",
+        "identifier": "lavalink-legacy-jompo-cloud", 
+        "host": "lavalink.jirayu.net",
+        "port": 2334, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v4"
     }
 
 
