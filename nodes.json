@@ -1,4 +1,7 @@
 [
+
+    {"info": "if you need any question to add your nodes, feel free to join https://dsc.gg/ajidevserver"},
+
     {
         "unique-id": "ajiedev-lavalinkv3",
         "identifier": "AjieDev - Lavalink v3",
@@ -81,11 +84,20 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-jirayu-net v4",
-        "identifier": "lavalink-legacy-jompo-cloud", 
+        "unique-id": "lavalink-jirayu-net-v4",
+        "identifier": "lavalink-jirayu-net v4", 
         "host": "lavalink.jirayu.net",
         "port": 2334, 
         "password": "youshallnotpass",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "lavalink01-techbyte-host",
+        "identifier": "lavalink01-techbyte-host", 
+        "host": "lavalink01.techbyte.host",
+        "port": 2036, 
+        "password": "NAIGLAVA-dash.techbyte.host",
         "secure": false,
         "version": "v3"
     }
