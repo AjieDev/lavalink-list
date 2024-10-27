@@ -34,7 +34,26 @@
         "password": "BatuManaBisa",
         "secure": true,
         "version": "v4"
+    },
+    {
+        "unique-id": "ll-sleepyinsomniac-eu-org",
+        "identifier": "ll-sleepyinsomniac-eu-org", 
+        "host": "ll.sleepyinsomniac.eu.org",
+        "port": 80, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "buses-sleepyinsomniac-eu-org",
+        "identifier": "buses-sleepyinsomniac-eu-org", 
+        "host": "buses.sleepyinsomniac.eu.org",
+        "port": 80, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v4"
     }
+
 
 
 
