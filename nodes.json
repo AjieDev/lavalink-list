@@ -72,8 +72,8 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-jirayu-net",
-        "identifier": "lavalink-jirayu-net-v4", 
+        "unique-id": "lavalink-jirayu-net-v4",
+        "identifier": "lavalink-jirayu-net v4", 
         "host": "lavalink.jirayu.net",
         "port": 13592, 
         "password": "youshallnotpass",
@@ -81,8 +81,8 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-jirayu-net-",
-        "identifier": "lavalink-jirayu-net v4", 
+        "unique-id": "lavalink-jirayu-net",
+        "identifier": "lavalink-jirayu-net", 
         "host": "lavalink.jirayu.net",
         "port": 2334, 
         "password": "youshallnotpass",
