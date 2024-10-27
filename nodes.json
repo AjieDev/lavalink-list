@@ -66,19 +66,19 @@
         "unique-id": "node-lewdhutao-my-eu-org",
         "identifier": "node-lewdhutao-my-eu-org", 
         "host": "node.lewdhutao.my.eu.org",
-        "port": 2333, 
+        "port": 80, 
         "password": "youshallnotpass",
         "secure": false,
         "version": "v4"
     },
     {
         "unique-id": "lavalink-jirayu-net",
-        "identifier": "lavalink-legacy-jompo-cloud", 
+        "identifier": "lavalink-jirayu-net", 
         "host": "lavalink.jirayu.net",
         "port": 13592, 
         "password": "youshallnotpass",
         "secure": false,
-        "version": "v3"
+        "version": "v4"
     },
     {
         "unique-id": "lavalink-jirayu-net v4",
@@ -87,7 +87,7 @@
         "port": 2334, 
         "password": "youshallnotpass",
         "secure": false,
-        "version": "v4"
+        "version": "v3"
     }
 
 
