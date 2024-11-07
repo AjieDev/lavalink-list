@@ -63,6 +63,10 @@ Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge
 Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load` <br />
 Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load)
 
+### Raw json list
+
+Deployed config are in here https://lavalink-list-api.pages.dev/nodes.json
+
 
 # Note
 
@@ -74,6 +78,17 @@ Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge
 
 - Node will marked as offline if timeout for 3 seconds
 - Inactive servers or nodes may get deleted to avoid status delay.
+
+# FAQ
+
+- Q: The Status API is open source?
+- A: No (It was actually planned but someone copied it and we cancelled it.)
+----------------------
+- Q: Can i get my lavalink stats api.
+- A: Currently working on it. (Probably "No" but we will find another way and additional issues above)
+----------------------
+- Q: Can we remove inactive nodes?
+- A: If you think helps, why not?
 
 # Contributors
 
