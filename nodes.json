@@ -54,15 +54,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-legacy-jompo-cloud",
-        "identifier": "lavalink-legacy-jompo-cloud", 
-        "host": "lavalink-legacy.jompo.cloud",
-        "port": 2333, 
-        "password": "jompo",
-        "secure": false,
-        "version": "v3"
-    },
-    {
         "unique-id": "node-lewdhutao-my-eu-org",
         "identifier": "node-lewdhutao-my-eu-org", 
         "host": "node.lewdhutao.my.eu.org",
@@ -90,10 +81,10 @@
         "version": "v3"
     },
     {
-        "unique-id": "lavalink01-techbyte-host",
-        "identifier": "lavalink01-techbyte-host", 
-        "host": "lavalink01.techbyte.host",
-        "port": 2036, 
+        "unique-id": "lavahatry4-techbyte-host",
+        "identifier": "lavahatry4-techbyte-host", 
+        "host": "lavahatry4.techbyte.host",
+        "port": 3000, 
         "password": "NAIGLAVA-dash.techbyte.host",
         "secure": false,
         "version": "v4"
@@ -169,6 +160,24 @@
         "password": "catfein",
         "secure": true,
         "version": "v4"
+    },
+    {
+        "unique-id": "node-us-beban-tech",
+        "identifier": "node-us-beban-tech", 
+        "host": "node-us.beban.tech",
+        "port": 80, 
+        "password": "dsc.gg/bebancommunity",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "node-us-v3-beban-tech",
+        "identifier": "node-us-v3-beban-tech", 
+        "host": "node-us-v3.beban.tech",
+        "port": 80, 
+        "password": "iknowwhy",
+        "secure": false,
+        "version": "v3"
     }
 
 
