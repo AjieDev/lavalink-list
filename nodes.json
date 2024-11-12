@@ -54,15 +54,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "node-lewdhutao-my-eu-org",
-        "identifier": "node-lewdhutao-my-eu-org", 
-        "host": "node.lewdhutao.my.eu.org",
-        "port": 80, 
-        "password": "youshallnotpass",
-        "secure": false,
-        "version": "v4"
-    },
-    {
         "unique-id": "lavalink-jirayu-net-v4",
         "identifier": "lavalink-jirayu-net v4", 
         "host": "lavalink.jirayu.net",
@@ -178,6 +169,24 @@
         "password": "iknowwhy",
         "secure": false,
         "version": "v3"
+    },
+    {
+        "unique-id": "fn1-solarnode-xyz",
+        "identifier": "fn1-solarnode-xyz", 
+        "host": "fn1.solarnode.xyz",
+        "port": 2087, 
+        "password": "solarnode.xyz",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-anantix-network",
+        "identifier": "lavalink-anantix-network", 
+        "host": "lavalink.anantix.network",
+        "port": 2335, 
+        "password": "pg6|(}7fuD_:7d#QQq?9",
+        "secure": false,
+        "version": "v4"
     }
 
 
