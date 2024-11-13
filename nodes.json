@@ -144,15 +144,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-alfari-id",
-        "identifier": "lavalink-alfari-id", 
-        "host": "lavalink.alfari.id",
-        "port": 443, 
-        "password": "catfein",
-        "secure": true,
-        "version": "v4"
-    },
-    {
         "unique-id": "node-us-beban-tech",
         "identifier": "node-us-beban-tech", 
         "host": "node-us.beban.tech",
