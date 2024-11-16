@@ -144,18 +144,18 @@
         "version": "v4"
     },
     {
-        "unique-id": "node-us-beban-tech",
-        "identifier": "node-us-beban-tech", 
-        "host": "node-us.beban.tech",
+        "unique-id": "lava-v4-beban-tech",
+        "identifier": "lava-v4-beban.tech", 
+        "host": "lava-v4.beban.tech",
         "port": 80, 
-        "password": "dsc.gg/bebancommunity",
+        "password": "bytebee_",
         "secure": false,
         "version": "v4"
     },
     {
-        "unique-id": "node-us-v3-beban-tech",
-        "identifier": "node-us-v3-beban-tech", 
-        "host": "node-us-v3.beban.tech",
+        "unique-id": "lava-v3-beban-tech",
+        "identifier": "lava-v3-beban-tech", 
+        "host": "lava-v3.beban.tech",
         "port": 80, 
         "password": "iknowwhy",
         "secure": false,
