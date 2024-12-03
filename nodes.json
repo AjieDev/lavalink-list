@@ -18,42 +18,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "serenetia-v3",
-        "identifier": "Serenetia Lavalink v3", 
-        "host": "lavalinkv3-id.serenetia.com",
-        "port": 443, 
-        "password": "BatuManaBisa",
-        "secure": true,
-        "version": "v3"
-    },
-    {
-        "unique-id": "serenetia-v4",
-        "identifier": "Serenetia Lavalink v4", 
-        "host": "lavalinkv4-id.serenetia.com",
-        "port": 443, 
-        "password": "BatuManaBisa",
-        "secure": true,
-        "version": "v4"
-    },
-    {
-        "unique-id": "ll-sleepyinsomniac-eu-org",
-        "identifier": "ll-sleepyinsomniac-eu-org", 
-        "host": "ll.sleepyinsomniac.eu.org",
-        "port": 80, 
-        "password": "youshallnotpass",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "buses-sleepyinsomniac-eu-org",
-        "identifier": "buses-sleepyinsomniac-eu-org", 
-        "host": "buses.sleepyinsomniac.eu.org",
-        "port": 80, 
-        "password": "youshallnotpass",
-        "secure": false,
-        "version": "v4"
-    },
-    {
         "unique-id": "lavalink-jirayu-net-v4",
         "identifier": "lavalink-jirayu-net v4", 
         "host": "lavalink.jirayu.net",
@@ -99,42 +63,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavav3-prplmoe-me",
-        "identifier": "lavav3-prplmoe-me", 
-        "host": "lavav3.prplmoe.me",
-        "port": 1164, 
-        "password": "prplmoe.me",
-        "secure": false,
-        "version": "v3"
-    },
-    {
-        "unique-id": "lavav4-prplmoe-me",
-        "identifier": "lavav4-prplmoe-me", 
-        "host": "lavav4.prplmoe.me",
-        "port": 1118, 
-        "password": "prplmoe.me",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "lavalink4-lightsout-in",
-        "identifier": "lavalink4-lightsout-in", 
-        "host": "lavalink4.lightsout.in",
-        "port": 40069, 
-        "password": "LightsoutOwnsElves",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "lavalink3-lightsout-in",
-        "identifier": "lavalink3-lightsout-in", 
-        "host": "lavalink3.lightsout.in",
-        "port": 30069, 
-        "password": "LightsoutOwnsElves",
-        "secure": false,
-        "version": "v3"
-    },
-    {
         "unique-id": "lavalink-v4-huntools-bot-xyz",
         "identifier": "lavalink-v4-huntools-bot-xyz", 
         "host": "lavalink-v4.huntools-bot.xyz",
@@ -160,15 +88,6 @@
         "password": "iknowwhy",
         "secure": false,
         "version": "v3"
-    },
-    {
-        "unique-id": "fn1-solarnode-xyz",
-        "identifier": "fn1-solarnode-xyz", 
-        "host": "fn1.solarnode.xyz",
-        "port": 2087, 
-        "password": "solarnode.xyz",
-        "secure": false,
-        "version": "v4"
     },
     {
         "unique-id": "lavalink-anantix-network",
