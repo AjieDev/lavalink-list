@@ -1,7 +1,7 @@
 [
     {
         "unique-id": "ajiedev-lavalinkv3",
-        "identifier": "AjieDev - Lavalink v3",
+        "identifier": "Public Lavalink v3",
         "host": "lava-v3.ajieblogs.eu.org",
         "port": 80,
         "password": "https://dsc.gg/ajidevserver",
@@ -10,7 +10,7 @@
     },
     {
         "unique-id": "ajiedev-lavalinkv4",
-        "identifier": "AjieDev - Lavalink v4", 
+        "identifier": "Public Lavalink v4", 
         "host": "lava-v4.ajieblogs.eu.org",
         "port": 443, 
         "password": "https://dsc.gg/ajidevserver",
@@ -60,15 +60,6 @@
         "port": 2333, 
         "password": "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
         "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "lavalink-v4-huntools-bot-xyz",
-        "identifier": "lavalink-v4-huntools-bot-xyz", 
-        "host": "lavalink-v4.huntools-bot.xyz",
-        "port": 443, 
-        "password": "youshallnotpass",
-        "secure": true,
         "version": "v4"
     },
     {
