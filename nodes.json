@@ -90,6 +90,33 @@
         "version": "v4"
     },
     {
+        "unique-id": "Muzykant-v3",
+        "identifier": "Muzykant-v3", 
+        "host": "lavalink_v3.muzykant.xyz",
+        "port": 2333, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "Muzykant-v3-no-yt",
+        "identifier": "Muzykant-v3-no-yt", 
+        "host": "lavalink_v3.muzykant.xyz",
+        "port": 5010, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "Muzykant-v4",
+        "identifier": "Muzykant-v4", 
+        "host": "lavalink_v4.muzykant.xyz",
+        "port": 5050, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": false,
+        "version": "v4"
+    },
+    {
         "unique-id": "diva-hosting-free",
         "identifier": "diva-hosting-free", 
         "host": "lavalink.divahost.net",
