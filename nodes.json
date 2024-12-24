@@ -88,6 +88,15 @@
         "password": "pg6|(}7fuD_:7d#QQq?9",
         "secure": false,
         "version": "v4"
+    },
+    {
+        "unique-id": "diva-hosting-free",
+        "identifier": "diva-hosting-free", 
+        "host": "lavalink.divahost.net",
+        "port": 60002, 
+        "password": "divahost",
+        "secure": false,
+        "version": "v4"
     }
 
 
