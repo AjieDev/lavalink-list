@@ -89,7 +89,7 @@
         "secure": false,
         "version": "v4"
     },
-        {
+    {
         "unique-id": "diva-hosting-free",
         "identifier": "diva-hosting-free", 
         "host": "lavalink.divahost.net",
