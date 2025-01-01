@@ -94,7 +94,7 @@
         "identifier": "diva-hosting-free", 
         "host": "lavalink.divahost.net",
         "port": 60002, 
-        "password": "divahost",
+        "password": "divahostv4",
         "secure": false,
         "version": "v4"
     },
