@@ -1,12 +1,21 @@
 [
     {
-        "unique-id": "ajiedev-lavalinkv3",
-        "identifier": "Public Lavalink v3",
-        "host": "lava-v3.ajieblogs.eu.org",
-        "port": 80,
-        "password": "https://dsc.gg/ajidevserver",
+        "unique-id": "diva-hosting-free",
+        "identifier": "diva-hosting-free", 
+        "host": "lavalink.divahost.net",
+        "port": 60002, 
+        "password": "divahostv4",
         "secure": false,
-        "version": "v3"
+        "version": "v4"
+    },
+    {
+        "unique-id": "diva-hosting-n5",
+        "identifier": "diva-hosting-n5", 
+        "host": "dv-n5.divahost.net",
+        "port": 60001, 
+        "password": "divahostv3",
+        "secure": false,
+        "version": "v4"
     },
     {
         "unique-id": "ajiedev-lavalinkv4",
