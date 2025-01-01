@@ -7,15 +7,6 @@
         "password": "https://dsc.gg/ajidevserver",
         "secure": false,
         "version": "v3"
-    },
-    {
-        "unique-id": "nodes-v3",
-        "identifier": "divahostv3", 
-        "host": "dv-n5.divahost.net",
-        "port": 60001, 
-        "password": "divahostv3",
-        "secure": false,
-        "version": "v3"
     }, 
     {
         "unique-id": "ajiedev-lavalinkv4",
@@ -133,6 +124,15 @@
         "password": "https://discord.gg/v6sdrD9kPh",
         "secure": true,
         "version": "v4"
+    },
+    {
+        "unique-id": "nodes-v3",
+        "identifier": "divahostv3", 
+        "host": "dv-n5.divahost.net",
+        "port": 60001, 
+        "password": "divahostv3",
+        "secure": false,
+        "version": "v3"
     }
 
 
