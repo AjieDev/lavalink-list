@@ -1,11 +1,133 @@
 [
     {
-        "unique-id": "nodes-v4",
-        "identifier": "divahostv4", 
-        "host": "lavalink.divahost.net",
-        "port": 60002, 
-        "password": "divahostv4",
+        "unique-id": "ajiedev-lavalinkv3",
+        "identifier": "Public Lavalink v3",
+        "host": "lava-v3.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "ajiedev-lavalinkv4",
+        "identifier": "Public Lavalink v4", 
+        "host": "lava-v4.ajieblogs.eu.org",
+        "port": 443, 
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-jirayu-net-v4",
+        "identifier": "lavalink-jirayu-net v4", 
+        "host": "lavalink.jirayu.net",
+        "port": 13592, 
+        "password": "youshallnotpass",
         "secure": false,
         "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-jirayu-net",
+        "identifier": "lavalink-jirayu-net", 
+        "host": "lavalink.jirayu.net",
+        "port": 2334, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "lavahatry4-techbyte-host",
+        "identifier": "lavahatry4-techbyte-host", 
+        "host": "lavahatry4.techbyte.host",
+        "port": 3000, 
+        "password": "NAIGLAVA-dash.techbyte.host",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-clxud-dev",
+        "identifier": "lavalink-clxud-dev", 
+        "host": "lavalink.clxud.dev",
+        "port": 2333, 
+        "password": "youshallnotpass",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lavalink-ipv4-oreshi-com",
+        "identifier": "lavalink-ipv4-oreshi-com", 
+        "host": "lavalink.ipv4.oreshi.com",
+        "port": 2333, 
+        "password": "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lava-v4-beban-tech",
+        "identifier": "lava-v4-beban.tech", 
+        "host": "lava-v4.beban.tech",
+        "port": 80, 
+        "password": "bytebee_",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "lava-v3-beban-tech",
+        "identifier": "lava-v3-beban-tech", 
+        "host": "lava-v3.beban.tech",
+        "port": 80, 
+        "password": "iknowwhy",
+        "secure": false,
+        "version": "v3"
+    },
+    {
+        "unique-id": "lavalink-anantix-network",
+        "identifier": "lavalink-anantix-network", 
+        "host": "lavalink.anantix.network",
+        "port": 2335, 
+        "password": "pg6|(}7fuD_:7d#QQq?9",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "diva-hosting-free",
+        "identifier": "diva-hosting-free", 
+        "host": "lavalink.divahost.net",
+        "port": 60002, 
+        "password": "divahost",
+        "secure": false,
+        "version": "v4"
+    },
+    {
+        "unique-id": "Muzykant-v3",
+        "identifier": "Muzykant-v3", 
+        "host": "lavalink_v3.muzykant.xyz",
+        "port": 443, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": true,
+        "version": "v3"
+    },
+    {
+        "unique-id": "Muzykant-v3-no-yt",
+        "identifier": "Muzykant-v3-no-yt", 
+        "host": "lavalink_v3_no_yt.muzykant.xyz",
+        "port": 443, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": true,
+        "version": "v3"
+    },
+    {
+        "unique-id": "Muzykant-v4",
+        "identifier": "Muzykant-v4", 
+        "host": "lavalink_v4.muzykant.xyz",
+        "port": 443, 
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": true,
+        "version": "v4"
     }
+
+
+
+
+
 ]
