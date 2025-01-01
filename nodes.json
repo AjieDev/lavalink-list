@@ -7,7 +7,7 @@
         "password": "https://dsc.gg/ajidevserver",
         "secure": false,
         "version": "v3"
-    }, 
+    },
     {
         "unique-id": "ajiedev-lavalinkv4",
         "identifier": "Public Lavalink v4", 
