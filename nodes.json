@@ -1,19 +1,10 @@
 [
     {
-        "unique-id": "diva-hosting-free",
-        "identifier": "diva-hosting-free", 
+        "unique-id": "nodes-v4",
+        "identifier": "divahostv4", 
         "host": "lavalink.divahost.net",
         "port": 60002, 
         "password": "divahostv4",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "diva-hosting-n5",
-        "identifier": "diva-hosting-n5", 
-        "host": "dv-n5.divahost.net",
-        "port": 60001, 
-        "password": "divahostv3",
         "secure": false,
         "version": "v4"
     }
