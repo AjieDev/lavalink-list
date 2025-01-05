@@ -55,13 +55,13 @@ https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
 - `<type>` - Badge type, supported badge type are: `Players`, `Status`, `Load`
 
 Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players` <br />
-Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/ajiedev-lavalinkv4/badge/Players) <br />
 
 Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status` <br />
-Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Status) <br />
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/ajiedev-lavalinkv4/badge/Status) <br />
 
 Example: `https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load` <br />
-Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Load)
+Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/ajiedev-lavalinkv4/badge/Load)
 
 ### Raw json list
 
