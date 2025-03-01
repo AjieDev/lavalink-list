@@ -124,10 +124,50 @@
         "password": "https://discord.gg/v6sdrD9kPh",
         "secure": true,
         "version": "v4"
+    },
+    {
+        "unique-id": "DTL1"
+        "identifier": "Disutils Team Lavalink 1",
+        "host": "lavalink-1.is-it.pink",
+        "port": 443,
+        "password": "https://disutils.com",
+        "secure": true,
+        "version": "v4",
+    },
+    {
+        "unique-id": "DTL2"
+        "identifier": "Disutils Team Lavalink 2",
+        "host": "lavalink-2.is-it.pink",
+        "port": 443,
+        "password": "https://disutils.com",
+        "secure": true,
+        "version": "v4",
+    },
+    {
+        "unique-id": "DTL3"
+        "identifier": "Disutils Team Lavalink 3",
+        "host": "lavalink-3.is-it.pink",
+        "port": 443,
+        "password": "https://disutils.com",
+        "secure": true,
+        "version": "v4",
+    },
+    {
+        "unique-id": "DTL4"
+        "identifier": "Disutils Team Lavalink 4",
+        "host": "lavalink-4.is-it.pink",
+        "port": 443,
+        "password": "https://disutils.com",
+        "secure": true,
+        "version": "v4",
+    },
+    {
+        "unique-id": "DTL5"
+        "identifier": "Disutils Team Lavalink 5",
+        "host": "lavalink-5.is-it.pink",
+        "port": 443,
+        "password": "https://disutils.com",
+        "secure": true,
+        "version": "v4",
     }
-
-
-    
-
-
 ]
