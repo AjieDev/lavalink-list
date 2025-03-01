@@ -27,15 +27,6 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-jirayu-net",
-        "identifier": "lavalink-jirayu-net", 
-        "host": "lavalink.jirayu.net",
-        "port": 2334, 
-        "password": "youshallnotpass",
-        "secure": false,
-        "version": "v3"
-    },
-    {
         "unique-id": "lavahatry4-techbyte-host",
         "identifier": "lavahatry4-techbyte-host", 
         "host": "lavahatry4.techbyte.host",
@@ -45,56 +36,11 @@
         "version": "v4"
     },
     {
-        "unique-id": "lavalink-clxud-dev",
-        "identifier": "lavalink-clxud-dev", 
-        "host": "lavalink.clxud.dev",
-        "port": 2333, 
-        "password": "youshallnotpass",
-        "secure": false,
-        "version": "v4"
-    },
-    {
         "unique-id": "lavalink-ipv4-oreshi-com",
         "identifier": "lavalink-ipv4-oreshi-com", 
         "host": "lavalink.ipv4.oreshi.com",
         "port": 2333, 
         "password": "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "lava-v4-beban-tech",
-        "identifier": "lava-v4-beban.tech", 
-        "host": "lava-v4.beban.tech",
-        "port": 80, 
-        "password": "bytebee_",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "lava-v3-beban-tech",
-        "identifier": "lava-v3-beban-tech", 
-        "host": "lava-v3.beban.tech",
-        "port": 80, 
-        "password": "iknowwhy",
-        "secure": false,
-        "version": "v3"
-    },
-    {
-        "unique-id": "lavalink-anantix-network",
-        "identifier": "lavalink-anantix-network", 
-        "host": "lavalink.anantix.network",
-        "port": 2335, 
-        "password": "pg6|(}7fuD_:7d#QQq?9",
-        "secure": false,
-        "version": "v4"
-    },
-    {
-        "unique-id": "diva-hosting-free",
-        "identifier": "diva-hosting-free", 
-        "host": "lavalink.divahost.net",
-        "port": 60002, 
-        "password": "divahostv4",
         "secure": false,
         "version": "v4"
     },
