@@ -132,7 +132,7 @@
         "port": 443,
         "password": "https://disutils.com",
         "secure": true,
-        "version": "v4",
+        "version": "v4"
     },
     {
         "unique-id": "DTL2",
@@ -141,7 +141,7 @@
         "port": 443,
         "password": "https://disutils.com",
         "secure": true,
-        "version": "v4",
+        "version": "v4"
     },
     {
         "unique-id": "DTL3",
@@ -150,7 +150,7 @@
         "port": 443,
         "password": "https://disutils.com",
         "secure": true,
-        "version": "v4",
+        "version": "v4"
     },
     {
         "unique-id": "DTL4",
@@ -159,7 +159,7 @@
         "port": 443,
         "password": "https://disutils.com",
         "secure": true,
-        "version": "v4",
+        "version": "v4"
     },
     {
         "unique-id": "DTL5",
@@ -168,6 +168,6 @@
         "port": 443,
         "password": "https://disutils.com",
         "secure": true,
-        "version": "v4",
+        "version": "v4"
     }
 ]
