@@ -38,9 +38,9 @@
     {
         "unique-id": "lavalink-ipv4-oreshi-com",
         "identifier": "lavalink-ipv4-oreshi-com", 
-        "host": "lavalink.ipv4.oreshi.com",
+        "host": "proxy.oreshi.com",
         "port": 2333, 
-        "password": "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf",
+        "password": "https://discord.gg/RPCfvBSUuM",
         "secure": false,
         "version": "v4"
     },
